@@ -147,5 +147,6 @@
         <module>integrations/spring-boot/session-remote</module>
         <module>integrations/spring-boot/cache-embedded</module>
         <module>integrations/spring-boot/session-embedded</module>
+        <module>infinispan-embedded/security</module>
     </modules>
 </project>
